@@ -6,6 +6,4 @@ mail($to, $subject,$message);
 echo 'привет';
 $a="hhh";
 echo 'new vetka!';
-=======
-echo'master';
 ?>
