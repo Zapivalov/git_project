@@ -7,5 +7,5 @@ echo 'привет';
 $a="hhh";
 echo 'new vetka!';
 echo'master';
-echo'ну почти';
+echo'печенька';
 ?>
